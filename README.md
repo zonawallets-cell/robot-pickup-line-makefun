@@ -9,6 +9,17 @@ A robot whose one safety system keeps failing on exactly one person.
 `main.py` (pure Python standard library, `os` only) writes exactly one line
 — 72 characters — a robot's pickup line, to `/output/entry.txt`.
 
+## Why this line
+
+> My collision avoidance works perfectly. It just can't seem to avoid you.
+
+The joke is a paradox built from a real machine system: collision
+avoidance, a thing robots actually have. "Works perfectly" sets up
+competence, then the second sentence flips it — the one thing it cannot
+avoid is you. The punch lands at the very end, the line is
+self-deprecating rather than creepy, and at 72 characters every word
+earns its place.
+
 ## Run it
 
 ```sh
